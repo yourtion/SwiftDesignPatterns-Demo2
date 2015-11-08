@@ -170,6 +170,8 @@
 		5D23FCF219D21A02003F5F4E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0710;
+				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = "RepublicOfApps, LLC";
 				TargetAttributes = {
